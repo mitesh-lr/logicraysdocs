@@ -42,7 +42,6 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinxcontrib.video",
     "notfound.extension",
-    "hoverxref.extension",
     "sphinxemoji.sphinxemoji",
 ]
 
