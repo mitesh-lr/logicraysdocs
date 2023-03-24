@@ -11,8 +11,8 @@ Welcome to Logicrays
    :glob:
    :caption: KNOWLEDGE BASE
 
-   kb/installation
-   kb/uninstallation
+   installation/index
+   uninstallation/index
 
 
 
