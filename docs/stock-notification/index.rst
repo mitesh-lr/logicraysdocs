@@ -18,12 +18,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/stocknotification/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the images.
 
-    .. figure:: img/stocknotification/Configuration-Settings-Stores-Magento-Admin_0.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_0.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -36,7 +36,7 @@ How to Configure
         * **Out Of Stock Notification Email Template For Admin**: Select the admin template for mail.
         * **Instock Notification Email Template For Customer**: Select the in-stock template for the customer.
     
-    .. figure:: img/stocknotification/Configuration-Settings-Stores-Magento-Admin_3.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_3.png
         :alt: module configuration fields
     
     :guilabel:`Sms Configuration`
@@ -48,7 +48,7 @@ How to Configure
         * **Admin Mobile Number For Out Of Stock Notification SMS**: Enter the mobile number of an administrator to send the notification.
         * **Out Of Stock Notification SMS Text For Admin**: when a product is out of stock, what message do you send to the admin?
     
-    .. figure:: img/stocknotification/Configuration-Settings-Stores-Magento-Admin_4.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_4.png
         :alt: module configuration fields
     
     :guilabel:`Frontend Labels`
@@ -65,7 +65,7 @@ How to Configure
 
 #. Open any out of stock product, you can see ``Notify form`` see below image.
 
-    .. figure:: img/stocknotification/Joust-Duffle-Bag.png
+    .. figure:: img/Joust-Duffle-Bag.png
         :alt: module configuration fields
 
     .. note::
@@ -76,12 +76,12 @@ How to Configure
 
     **Customer Mail sent**
 
-        .. figure:: img/stocknotification/Customer-Mail.png
+        .. figure:: img/Customer-Mail.png
             :alt: module configuration fields
     
     **Admin Mail sent**
 
-        .. figure:: img/stocknotification/Admin-Mail.png
+        .. figure:: img/Admin-Mail.png
             :alt: module configuration fields
     
     .. note::
@@ -91,23 +91,23 @@ How to Configure
     
     **In Stock Mail sent to the customer**
         
-        .. figure:: img/stocknotification/Instock-Notification.png
+        .. figure:: img/Instock-Notification.png
             :alt: module configuration fields
 
 #. Now you have to check admin side grid.
     
     If you want to see the Out of Stock Notification List, simply go to ``Logicrays > Out Of Stock Notification > Out Of Stock Notification`` see below image.
 
-    .. figure:: img/stocknotification/Admin_list.png
+    .. figure:: img/Admin_list.png
     
     After Click ``Out Of Stock Notification``  You have to redirect to admin grid, see below image.
     
-    .. figure:: img/stocknotification/Stock-Notification-List.png
+    .. figure:: img/Stock-Notification-List.png
     
     If you want to see the Out of Product Stock Notification List, simply go to ``Logicrays > Out Of Stock Notification > Product Out Of Stock Notification`` see below image.
 
-    .. figure:: img/stocknotification/Product-Admin-Grid.png
+    .. figure:: img/Product-Admin-Grid.png
     
     After Click ``Product Out Of Stock Notification``  You have to redirect to admin grid, see below image.
 
-    .. figure:: img/stocknotification/Product-Stock-Notification-List.png
+    .. figure:: img/Product-Stock-Notification-List.png

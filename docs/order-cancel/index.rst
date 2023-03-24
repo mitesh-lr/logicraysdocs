@@ -14,12 +14,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/ordercancel/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
     
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_0.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_0.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -31,7 +31,7 @@ How to Configure
         * **Customer Groups**: To enable this functionality, select a customer group. You can also select multiple customers.
         * **Order Status**: You must select either single or both order statuses here. When you choose that type of order status, apply the ``order cancel`` extension.
     
-    .. figure:: img/ordercancel/Configuration-Settings-Stores-Magento-Admin_3.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_3.png
         :alt: module configuration fields
     
     :guilabel:`Email Configuration`
@@ -49,12 +49,12 @@ How to Configure
 
 #. After login simply, go to ``My Account > My Orders``
 
-    .. figure:: img/ordercancel/My-Orders.png
+    .. figure:: img/My-Orders.png
         :alt: My Order.
 
 #. When you click the ``Cancel Order`` button, a popup form appears, as shown in the below image.
 
-    .. figure:: img/ordercancel/My-Orders_popup.png
+    .. figure:: img/My-Orders_popup.png
         :alt: My Order.
     
     .. note::
@@ -63,25 +63,25 @@ How to Configure
 
 #. Customer Mail sent
 
-    .. figure:: img/ordercancel/Customer-mail.png
+    .. figure:: img/Customer-mail.png
 
 
 #. Admin Mail sent
 
-    .. figure:: img/ordercancel/Order-Cancel-Admin-Email.png
+    .. figure:: img/Order-Cancel-Admin-Email.png
 
 #. Now you have to check admin side grid. Simply go to ``Logicrays > Order Cancel > Order Cancel`` see below image.
 
-    .. figure:: img/ordercancel/Admin_Grid_home.png
+    .. figure:: img/Admin_Grid_home.png
 
 #. After click on ``Order Cancel`` then you can redirect to ``Admin Grid`` see below image.
     
     If you wish to see order details, simply click on ``Order View``.
     
-    .. figure:: img/ordercancel/Order-List.png
+    .. figure:: img/Order-List.png
 
 #. After click on ``Order View`` then you can redirect to ``Order view Page`` see below image.
     
     Here you can see status of order now is ``Canceled``
 
-    .. figure:: img/ordercancel/Order-View.png
+    .. figure:: img/Order-View.png

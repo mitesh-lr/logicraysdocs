@@ -14,12 +14,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/product-inquiry/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/product-inquiry/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -46,29 +46,29 @@ How to Configure
 
     And open the product detail page of any product's. and scroll down your page here, you can see one tab that is ``Product Inquiry``. You must fill out a form in this tab if you have any questions.
 
-    .. figure:: img/product-inquiry/Product-Detail-Page.png
+    .. figure:: img/Product-Detail-Page.png
         :alt: Product Details page
 
 #. After click on ``Send Inquiry`` button then your form successfully send the request to admin. Now you have to check Admin Request then go to ``Logicrays > ProductInquiry > ProductInquiry Details``.
     
     see below image.
 
-    .. figure:: img/product-inquiry/Dashboard-Magento-Admin_1.png
+    .. figure:: img/Dashboard-Magento-Admin_1.png
         :alt: Dashboard-Magento-Admin
 
 #. You must be redirected to the admin side grid after clicking on the above path. see below image.
 
-    .. figure:: img/product-inquiry/Product-Admin-Grid.png
+    .. figure:: img/Product-Admin-Grid.png
         :alt: Inquiry form
 
 #. By clicking the Edit button, you can now edit the record. The Edit form appears after you click the Edit button. In this form, you can edit the records and also reply to the customer's questions.
 
-    .. figure:: img/product-inquiry/Product-Inquiry-Edit-form.png
+    .. figure:: img/Product-Inquiry-Edit-form.png
         :alt: Product-Inquiry-Edit-form
 
 #. After saving the admin's responses, you can view them on the frontend.
     
-    .. figure:: img/product-inquiry/Admin-Response.png
+    .. figure:: img/Admin-Response.png
         :alt: Admin-Response
 
 .. note::
@@ -76,15 +76,15 @@ How to Configure
 
 #. Customer received mail.
 
-    .. figure:: img/product-inquiry/Customer-Mail.png
+    .. figure:: img/Customer-Mail.png
         :alt: Customer-Mail
 
 #. Admin received mail.
 
-    .. figure:: img/product-inquiry/Admin-Mail.png
+    .. figure:: img/Admin-Mail.png
         :alt: Admin-Mail
 
 #. Admin response mail to customer.
 
-    .. figure:: img/product-inquiry/Admin-Mail-Response.png
+    .. figure:: img/Admin-Mail-Response.png
         :alt: Admin-Mail-Response

@@ -14,12 +14,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/orderprefix/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/orderprefix/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -38,25 +38,25 @@ How to Configure
 
     This is ``Success Page``
 
-    .. figure:: img/orderprefix/Success-Page.png
+    .. figure:: img/Success-Page.png
         :alt: Success Page
     
     Go to ``My Account > My Order`` Section.
 
-    .. figure:: img/orderprefix/My-Orders.png
+    .. figure:: img/My-Orders.png
         :alt: My Orders Page
     
     Create an ``invoice`` from the admin side first.
 
-    .. figure:: img/orderprefix/Invoice.png
+    .. figure:: img/Invoice.png
         :alt: Invoice Page
     
     Create an ``Shipment`` from the admin side first.
 
-    .. figure:: img/orderprefix/shipment.png
+    .. figure:: img/shipment.png
         :alt: Shipment Page
     
     Create an ``Creditmemo`` from the admin side first.
 
-    .. figure:: img/orderprefix/Credit-memo.png
+    .. figure:: img/Credit-memo.png
         :alt: Creditmemo Page

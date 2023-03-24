@@ -15,12 +15,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/quick-order/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/quick-order/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -44,7 +44,7 @@ How to Configure
 
 #. Open the home page of your site. If the extension was successfully installed, then at the header, you can see the ``Quick Order`` button; see the below image.
 
-    .. figure:: img/quick-order/Home-Page.png
+    .. figure:: img/Home-Page.png
         :alt: Home-Page
 
 #. After clicking the ``Quick Order`` button, you will be redirected to the Quick Order Page.
@@ -52,17 +52,17 @@ How to Configure
     Here you have to enter a product SKU, then search and select your quantity, and you can directly add your product to your cart.
     see below image.
 
-    .. figure:: img/quick-order/Quick-Order_Page.png
+    .. figure:: img/Quick-Order_Page.png
         :alt: Quick-Order_Page
 
 #. Now if you want search multiple product based on SKU then also you can do it by clicking 
     
     ``Enter Multiple SKUs`` see below image.
 
-    .. image:: img/quick-order/mulitiple_sku.gif
+    .. image:: img/mulitiple_sku.gif
         :alt: Multiple-SKU
 
 #. We have made it possible to add products to your cart in bulk. You must first prepare a csv file, which you can then import by clicking on ``Import Skus``, as shown in the image below.
 
-    .. image:: img/quick-order/import_sku.gif
+    .. image:: img/import_sku.gif
         :alt: Import-SKU

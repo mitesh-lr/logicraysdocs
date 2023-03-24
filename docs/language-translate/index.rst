@@ -14,12 +14,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/language-translate/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the images.
 
-    .. figure:: img/language-translate/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -36,5 +36,5 @@ How to Configure
 #. Open the front end of your store.
     Here you can see below video file it will work very well.
 
-    .. image:: img/language-translate/frontend-side.gif
+    .. image:: img/frontend-side.gif
         :alt: front-end side module video

@@ -11,8 +11,8 @@ Welcome to Logicrays
    :glob:
    :caption: KNOWLEDGE BASE
 
-   Knowledge_Base/install-magento2-extension
-   Knowledge_Base/uninstall-extension
+   kb/installation
+   kb/uninstallation
 
 
 
@@ -22,14 +22,14 @@ Welcome to Logicrays
    :glob:
    :caption: USER GUIDE
 
-   User_Guide/call-for-price
-   User_Guide/google-recaptcha
-   User_Guide/email-filter
-   User_Guide/order-cancel
-   User_Guide/order-prefix
-   User_Guide/stock-notification
-   User_Guide/limit-per-category
-   User_Guide/restrict-fake-registration
-   User_Guide/quick-order
-   User_Guide/language-translate
-   User_Guide/product-inquiry
+   call-for-price/index
+   google-recaptcha/index
+   email-filter/index
+   order-cancel/index
+   order-prefix/index
+   stock-notification/index
+   limit-per-category/index
+   restrict-fake-registration/index
+   quick-order/index
+   language-translate/index
+   product-inquiry/index

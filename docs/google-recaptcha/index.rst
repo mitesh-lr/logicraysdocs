@@ -16,12 +16,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/recaptcha/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -37,14 +37,14 @@ How to Configure
         * **Secret Key**: Whatever captcha type you select from the dropdown, you have to enter the respective secret key.
         * **Forms**: Here, you can select single or multiple forms to apply the functionality of Google ReCaptcha.
     
-    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_2.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_2.png
         :alt: module configuration fields
     
     :guilabel:`Custom Form Position`
         * **Form Post Paths**: If you have a third-party form, you can also add Google ReCaptcha to the form's post path.
         * **CSS Selectors**: If you use a third-party form, you can also apply Google ReCaptcha to the form's CSS selectors.
     
-    .. figure:: img/recaptcha/Configuration-Settings-Stores-Magento-Admin_3.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_3.png
         :alt: module configuration fields
 
     :guilabel:`Backend Configuration`
@@ -59,28 +59,28 @@ How to Configure
 
     **I used visible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/Create-New-Customer-Account.png
+    .. figure:: img/Create-New-Customer-Account.png
         :alt: Register Form
 
 :guilabel:`Login Form`
 
     **I used Invisible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/Customer-Login.png
+    .. figure:: img/Customer-Login.png
         :alt: Login Form
 
 :guilabel:`Contact-Us Form`
 
     **I used visible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/Contact-Us.png
+    .. figure:: img/Contact-Us.png
         :alt: Contact-Us Form
 
 :guilabel:`Product Review Form`
 
     **I used Invisible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/product-review.png
+    .. figure:: img/product-review.png
         :alt: Product Review Form
 
 
@@ -92,7 +92,7 @@ How to Configure
 
     **I used visible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/Magento-Admin.png
+    .. figure:: img/Magento-Admin.png
         :alt: Login Form
 
 
@@ -100,5 +100,5 @@ How to Configure
 
     **I used Invisible ReCaptcha in this**.
 
-    .. figure:: img/recaptcha/Magento-Admin_2.png
+    .. figure:: img/Magento-Admin_2.png
         :alt: Forgot Password Form

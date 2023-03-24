@@ -15,12 +15,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/Restrict-fake-registration/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/Restrict-fake-registration/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -49,25 +49,25 @@ How to Configure
 
     After that, try filling up Fome with some customer names that you have specified in the admin configuration. See below image.
 
-    .. figure:: img/Restrict-fake-registration/Customer-name.png
+    .. figure:: img/Customer-name.png
         :alt: Configuration Settings.
     
     As you can see, I'm using ``user`` as a customer name. Now it will fake the customer name and restrict registration, as shown in the image below.
 
-    .. figure:: img/Restrict-fake-registration/Customer-Name-Error.png
+    .. figure:: img/Customer-Name-Error.png
         :alt: Configuration Settings.
     
     Now we fill in the form with some restricted domain names that you have specified in the admin configuration. See below image.
 
-    .. figure:: img/Restrict-fake-registration/Domain-Error.png
+    .. figure:: img/Domain-Error.png
         :alt: Configuration Settings
     
     As you can see, I'm using ``.com`` as a domain name. Now it will restrict customers to registration, as shown in the image below.
 
-    .. figure:: img/Restrict-fake-registration/Domain-error-message.png
+    .. figure:: img/Domain-error-message.png
         :alt: Configuration Settings
     
 #. Now suppose you enter the proper details for registration, but if your IP address is restricted, you will also not be able to register in this store. see below image.
 
-    .. figure:: img/Restrict-fake-registration/IP-Error-Message.png
+    .. figure:: img/IP-Error-Message.png
         :alt: Configuration Settings

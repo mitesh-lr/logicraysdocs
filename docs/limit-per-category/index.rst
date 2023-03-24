@@ -15,12 +15,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/limit-per-category/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/limit-per-category/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -50,10 +50,10 @@ How to Configure
 
         **When you enter the minimum quantity specified from the admin side configuration, then you can see an error message.**
 
-        .. figure:: img/limit-per-category/Wayfarer-Messenger-Bag.png
+        .. figure:: img/Wayfarer-Messenger-Bag.png
             :alt: product image
     
         **When you enter the maximum quantity specified from the admin side configuration, then you can see an error message.**
 
-        .. figure:: img/limit-per-category/Wayfarer-Messenger-Bag_max_qty.png
+        .. figure:: img/Wayfarer-Messenger-Bag_max_qty.png
             :alt: product image

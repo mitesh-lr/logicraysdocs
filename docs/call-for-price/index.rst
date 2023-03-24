@@ -14,13 +14,13 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/callforprice/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/callforprice/Configuration-Settings-Stores-Magento-Admin_0.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin_0.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -43,19 +43,19 @@ How to Configure
     
     go to ``Catalog > Products`` see below image.
 
-    .. figure:: img/callforprice/Dashboard-catalog-product.png
+    .. figure:: img/Dashboard-catalog-product.png
         :alt: Catalog Product
 
 #. Here you can see a list of products, and from here you can open a product in Edit mode.
 
-    .. figure:: img/callforprice/Products-Inventory-Catalog-Magento-Admin.png
+    .. figure:: img/Products-Inventory-Catalog-Magento-Admin.png
 
 
 #. Scroll down after opening a product in Edit mode to see the product attribute that is 
     
     ``Call for Price`` check ``Yes``
 
-    .. figure:: img/callforprice/Joust-Duffle-Bag-Products-Inventory-Catalog-Magento-Admin.png
+    .. figure:: img/Joust-Duffle-Bag-Products-Inventory-Catalog-Magento-Admin.png
 
 
     .. note::
@@ -64,28 +64,28 @@ How to Configure
 
 #. Now open a product in the front-end; this is the ``category page``, as shown in the image below.
 
-    .. figure:: img/callforprice/category_page.png
+    .. figure:: img/category_page.png
 
 
 #. This is the ``product view page``. Here, you can see in place of the ``price``, display some text, and in place of the ``Add to Cart`` button, it's now shows ``Call for Price`` button, based on your admin-side configuration.
 
-    .. figure:: img/callforprice/product-view-page.png
+    .. figure:: img/product-view-page.png
 
 #. This is a ``Sidebar-wishlist`` section.
 
-    .. figure:: img/callforprice/sidebar-wishlist.png
+    .. figure:: img/sidebar-wishlist.png
 
 #. This is an ``Wishlist`` Section page.
 
-    .. figure:: img/callforprice/wishlist-section.png
+    .. figure:: img/wishlist-section.png
 
 #. This is an ``Add-to-Compare`` page.
 
-    .. figure:: img/callforprice/Add-to-compare.png
+    .. figure:: img/Add-to-compare.png
 
 #. When we click the button ``Call for Price``, a popup form appears, as shown in the image below.
 
-    .. image:: img/callforprice/popup.gif
+    .. image:: img/popup.gif
 
 
     .. note::
@@ -95,25 +95,25 @@ How to Configure
 
 #. Customer Mail sent
 
-    .. figure:: img/callforprice/Customer-mail.png
+    .. figure:: img/Customer-mail.png
 
 
 #. Admin recevied request
 
-    .. figure:: img/callforprice/Admin-side-mail.png
+    .. figure:: img/Admin-side-mail.png
 
 #. Now you have to check admin side grid. Simply go to ``Logicrays > Call For Price > Manage Request`` see below image.
 
-    .. figure:: img/callforprice/Grid.png
+    .. figure:: img/Grid.png
 
 #. After click on ``Manage Request`` then you can redirect to ``Admin Grid`` see below image.
     
     If you wish to Edit details, simply click on ``Edit``.
     
-    .. figure:: img/callforprice/Admin_Grid.png
+    .. figure:: img/Admin_Grid.png
 
 #. When processing is done on your request, admin will change the status from ``New`` to ``Complete``.
     
     Concerning the status update email sent to the customer. Please see the image of the mail below.
     
-    .. figure:: img/callforprice/Status-Update-mail.png
+    .. figure:: img/Status-Update-mail.png

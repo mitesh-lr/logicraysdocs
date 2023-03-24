@@ -14,12 +14,12 @@ How to Configure
 
 #. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
 
-    .. figure:: img/emailfilter/Dashboard-Magento-Admin.png
+    .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
 
 #. Now here you can see all the configure fields of the module. I'll explain them one by one at the end of the image.
 
-    .. figure:: img/emailfilter/Configuration-Settings-Stores-Magento-Admin.png
+    .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
     
     :guilabel:`General`
@@ -40,20 +40,20 @@ How to Configure
 
 :guilabel:`Register Form`
 
-    .. figure:: img/emailfilter/Create-New-Customer-Account.png
+    .. figure:: img/Create-New-Customer-Account.png
         :alt: Register Form
 
 :guilabel:`Contact-Us Form`
 
-    .. figure:: img/emailfilter/Contact-Us.png
+    .. figure:: img/Contact-Us.png
         :alt: Contact-Us Form
 
 :guilabel:`Checkout Page`
 
-    .. figure:: img/emailfilter/Checkout.png
+    .. figure:: img/Checkout.png
         :alt: Checkout Page
 
 :guilabel:`Newslatter`
 
-    .. figure:: img/emailfilter/Newslatter.png
+    .. figure:: img/Newslatter.png
         :alt: Contact-Us Form
