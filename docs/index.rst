@@ -33,3 +33,4 @@ Welcome to Logicrays
    quick-order/index
    language-translate/index
    product-inquiry/index
+   forward-to-configurable/index
