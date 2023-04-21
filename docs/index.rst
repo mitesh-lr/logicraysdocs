@@ -34,3 +34,4 @@ Welcome to Logicrays
    language-translate/index
    product-inquiry/index
    forward-to-configurable/index
+   storelocator/index
