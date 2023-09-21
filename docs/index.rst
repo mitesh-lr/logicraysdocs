@@ -35,3 +35,4 @@ Welcome to Logicrays
    product-inquiry/index
    forward-to-configurable/index
    storelocator/index
+   custom-price/index
