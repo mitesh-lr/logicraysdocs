@@ -13,7 +13,7 @@ category
 How to Configure
 ````````````````
 
-#. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
+#. Open Admin Panel, go to ``Logicrays > Extensions & Notifications > Manage Extensions``
 
     .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
@@ -22,20 +22,20 @@ How to Configure
 
     .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
-    
+
     :guilabel:`General`
-        * **Enable**: Choose ``Enable`` to use the functions of this module.
-        * **Min Quantity Error Message**: You have to specify the error message for the minimum quantity.
-        * **Max Quantity Error Message**: You have to specify the error message for the maximum quantity.
-        * **Quantity Threshold**: This is the dynamic row in this; you have to choose below.
-                
+        * **Enable**: Choose ``Yes`` to use the functions of this module.
+        * **Min Qty Error Message**: You have to specify the error message for the minimum quantity.
+        * **Max Qty Error Message**: You have to specify the error message for the maximum quantity.
+        * **Qty Threshold**: This is the dynamic row in this; you have to choose below.
+
                 ``Customer group`` : Which customer group to allow this function.
 
                 ``Category`` : Which category to allow this function.
 
-                ``Minimum Qty value`` : Enter the minimum quantity value to raise the error and show the error message, whatever you enter above.
+                ``Min Qty value`` : Enter the minimum quantity value to raise the error and show the error message, whatever you enter above.
 
-                ``Maximum Qty Value`` : Enter the maximum quantity value to raise the error and show the error message, whatever you enter above.
+                ``Max Qty Value`` : Enter the maximum quantity value to raise the error and show the error message, whatever you enter above.
 
     .. note::
 
@@ -52,7 +52,7 @@ How to Configure
 
         .. figure:: img/Wayfarer-Messenger-Bag.png
             :alt: product image
-    
+
         **When you enter the maximum quantity specified from the admin side configuration, then you can see an error message.**
 
         .. figure:: img/Wayfarer-Messenger-Bag_max_qty.png

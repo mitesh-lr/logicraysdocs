@@ -12,7 +12,7 @@ This extension allows you to add your custome prefix at ``Order Id``, ``Shipment
 How to Configure
 ````````````````
 
-#. Open Admin Panel, go to ``Logicrays > Settings > Configuration``
+#. Open Admin Panel, go to ``Logicrays > Extensions & Notifications > Manage Extensions``
 
     .. figure:: img/Dashboard-Magento-Admin.png
         :alt: Configuration Settings.
@@ -21,13 +21,25 @@ How to Configure
 
     .. figure:: img/Configuration-Settings-Stores-Magento-Admin.png
         :alt: module configuration fields
-    
+
     :guilabel:`General`
-        * **Module Enable**: Choose ``Enable`` to use the functions of this module.
-        * **Order ID Prefix**: Whatever you enter here will be added before the ``order Id``.
-        * **Invoice Id Prefix**: Whatever you enter here will be added before the ``Invoice Id``.
-        * **Shipment Id Prefix**: Whatever you enter here will be added before the ``Shipment Id``.
-        * **Creditmemo Id Prefix**: Whatever you enter here will be added before the ``Creditmemo Id``.
+        * **Enable**: Choose ``Yes`` to use the functions of this module.
+
+        :guilabel:`Order Prefix`
+            * **Enable**: Choose ``Yes`` to add the given prefix before the order Id.
+            * **Prefix**: Whatever you enter here will be added before the ``order Id``.
+
+        :guilabel:`Invoice Prefix`
+            * **Enable**: Choose ``Yes`` to add the given prefix before the invoice Id.
+            * **Prefix**: Whatever you enter here will be added before the ``Invoice Id``.
+
+        :guilabel:`Shipment Prefix`
+            * **Enable**: Choose ``Yes`` to add the given prefix before the shipment Id.
+            * **Prefix**: Whatever you enter here will be added before the ``Shipment Id``.
+
+        :guilabel:`Creditmemo Prefix`
+            * **Enable**: Choose ``Yes`` to add the given prefix before the creditmemo Id.
+            * **Prefix**: Whatever you enter here will be added before the ``Creditmemo Id``.
 
 .. note::
 
@@ -40,22 +52,22 @@ How to Configure
 
     .. figure:: img/Success-Page.png
         :alt: Success Page
-    
+
     Go to ``My Account > My Order`` Section.
 
     .. figure:: img/My-Orders.png
         :alt: My Orders Page
-    
+
     Create an ``invoice`` from the admin side first.
 
     .. figure:: img/Invoice.png
         :alt: Invoice Page
-    
+
     Create an ``Shipment`` from the admin side first.
 
     .. figure:: img/shipment.png
         :alt: Shipment Page
-    
+
     Create an ``Creditmemo`` from the admin side first.
 
     .. figure:: img/Credit-memo.png
