@@ -72,6 +72,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
 
+# Adding Custom robots.txt
+html_extra_path = ["_html"]
 
 # -- Options for HTML output -------------------------------------------------
 
